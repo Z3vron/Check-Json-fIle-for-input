@@ -1,4 +1,4 @@
-This is simple program that checks if provided Json file contains one asterisk (returns false). In any other case it returns false.
+This is simple program that checks if provided Json file contains one asterisk (returns false). In any other case it returns true.
 
 Running program:
 In the terminal get into the directory that cointains given file(Main.py). 
